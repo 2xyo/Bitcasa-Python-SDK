@@ -1,0 +1,10 @@
+{
+    "client_id": "CLIENT_ID_GOES_HERE", 
+    "auth_token": "", 
+    "access_token": "", 
+    "file_api_url": "https://files.api.bitcasa.com/v1", 
+    "api_url": "https://developer.api.bitcasa.com/v1", 
+    "secret": "SECRET_GOES_HERE", 
+    "cache_dir": "CACHE_DIRECTORY_GOES_HERE_NOT_IMPLEMENTED", 
+    "redirect_url": ""
+}
